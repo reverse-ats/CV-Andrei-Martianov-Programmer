@@ -1,0 +1,94 @@
+name: Andrei Martianov
+name-in-cyrillic: Андрей Мартьянов
+
+profession: programmer
+
+hardskills:
+  skill:
+    - C# / .NET, ASP.NET, Entity Framework, LINQ, Unity3D (VR, Android, iOS)
+    - Photon Unity Networking, SteamVR, Oculus, Kinect, Raspberry Pi
+    - Docker, Kubernetes, CI/CD, GitLab, Ansible, Proxmox, VMware, Hyper-V
+    - Python, Go, JavaScript, TypeScript, SQL, BigQuery
+    - Serilog, Seq, OpenTelemetry, Zabbix, Datadog, Grafana
+    - LLM, RAG, N8N, Agents, Claude Code, MCP, Gemini CLI, Ollama
+
+softskills:
+  skill:
+    - Keep calm & carry on
+    - Always learn and share knowledge. Can't ignore a good question
+    - Cat-like curiosity. New framework? Let's go!
+    - Teamplayer or self-directed solo, depending on the situation
+    - Translator between tech and business people. Building bridges between worlds
+    - Asynchronous communication advocate
+    - Believe it or not, I like refactoring
+
+languages:
+  - idiom: English - C2
+  - idiom: Spanish - B2
+  - idiom: Russian - Native
+
+bio: |
+  C# / .NET Software Engineer with 20 years of IT experience: 5 years building production C# applications (ETL pipelines, Unity3D VR and mobile products, multiplayer backends), 3 years of DevOps and infrastructure, and 8 years in system administration. Combines deep backend engineering in C# and .NET with a product mindset and hands-on platform experience. Built and operated a mission-critical analytics ETL tool for a team of 50, automating daily data imports from multiple sources into BigQuery.
+
+experience:
+  - role: Backend / DevOps
+    time: 2023-2025
+    company: NDA-organization
+    details: R&D in AI and Blockchain. Cross-stack infrastructure work that kept C# and adjacent backend skills sharp through tooling, automation, and observability for engineering teams.
+    details-list: []
+
+  - role: C# Developer, DevOps, PM
+    time: 2021-2023
+    company: hoopsly (hypercasual games publisher)
+    details: ""
+    details-list:
+      - "Engineered and operated a mission-critical C# console application for daily ETL, serving 50 producers and analysts by automating data imports from REST APIs, AWS S3, Adjust, Applovin, and Facebook Ads into BigQuery and GCP S3."
+      - "Architected the data pipeline from specification to production, introducing Google Sheets integration as a control layer, making complex data operations accessible to non-technical users."
+      - "Established comprehensive monitoring using Serilog, Seq, and OpenTelemetry, and visualized key performance metrics in Data Studio to drive operational decisions."
+      - "Streamlined deployment and CI/CD on a Digital Ocean Droplet with a Dockerized application, ensuring high availability and simplified updates."
+      - "Documented the entire system and processes, creating a clear operational runbook for future maintenance and scaling."
+
+  - role: C# Developer, Unity3D Developer, Game Designer
+    time: 2019-2021
+    company: 3dru (3D-printed hardware, VR and mobile prototypes)
+    details: ""
+    details-list:
+      - "Developed VR and mobile applications in Unity3D (C#), integrating analytics, ads (Unity Ads, AdMob), and in-app purchases (Unity IAP) to ship monetizable product experiences."
+      - "Built multiplayer features using Photon Unity Networking for matchmaking and lobby systems; implemented AI behaviors with Finite State Machines and Behavior Tree Designer."
+      - "Created custom editor tooling in C# (Odin Inspector, OpenUPM) to accelerate level design and prototyping workflows for the team."
+      - "Managed the full development stack: Git LFS, animation (DOTween, Cinemachine), hardware SDKs (SteamVR, Oculus, Kinect, Raspberry Pi)."
+      - "Administered the team's infrastructure on the side: self-hosted GitLab & Confluence, monitoring with Zabbix and Datadog, and a Dockerized Node.js backend (Strapi) for game services."
+
+  - role: Project Manager
+    time: 2016-2018
+    company: (immersive theater, quest room)
+    details: Making stuff operate smoothly. Optimizing routines. Extinguishing fires.
+    details-list: []
+
+  - role: Entrepreneur, PM, Game Designer, HR, Marketer, Jack of all trades
+    time: 2014-2016
+    company: (quest game, escape room)
+    details: |
+      Inventing stuff from scratch, BizDev, CusDev, talking to people, game balance, talents, construction, advertising, making sure bathroom is perfect.
+      Won "Quest of the year 2016"
+      Tons of 10/10 from players.
+      This project is an achievement I am really proud of.
+      Check photos, link above.
+    details-list: []
+
+  - role: System Administrator, Datacenter Engineer
+    time: 2011-2014
+    company: (ISP, Datacenter)
+    details: UNIX, Redmine, Zabbix, Cacti, rack grooming, incident response, installing new hardware
+    details-list: []
+
+  - role: Tech Support, System Administrator
+    time: 2005-2011
+    company: (ISP)
+    details: FreeBSD, Cisco, routing, DNS, DHCP, NAT, ActiveDirectory, SMTP, VPN, VMware, VirtualBox
+    details-list: []
+
+contact:
+  telegram: 'alisa_rosenbaum'
+  email: 'andrei.martianov.programmer@reverse-ats.com'
+  phone: ''
