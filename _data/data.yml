@@ -7,7 +7,7 @@ hardskills:
   skill:
     - C# / .NET, ASP.NET, Entity Framework, LINQ, Unity3D (VR, Android, iOS)
     - Photon Unity Networking, SteamVR, Oculus, Kinect, Raspberry Pi
-    - Docker, Kubernetes, CI/CD, GitLab, Ansible, Proxmox, VMware, Hyper-V, Terraform
+    - Docker, Kubernetes, CI/CD, GitLab, Ansible, Proxmox, VMware, Hyper-V, Terraform, ArgoCD
     - Python, Go, JavaScript, TypeScript, SQL, BigQuery
     - Serilog, Seq, OpenTelemetry, Zabbix, Datadog, Grafana
     - LLM, RAG, N8N, Agents, Claude Code, MCP, Gemini CLI, Ollama
